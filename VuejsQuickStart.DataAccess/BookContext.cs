@@ -3,9 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using VuejsQuickStart.Models;
+using VuejsQuickStart.DataAccess.Models;
 
-namespace VuejsQuickStart
+namespace VuejsQuickStart.DataAccess
 {
     public class BookContext:DbContext
     {

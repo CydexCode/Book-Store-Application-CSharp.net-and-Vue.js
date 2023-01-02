@@ -4,7 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using VuejsQuickStart.Models;
+using VuejsQuickStart.DataAccess.Models;
+using VuejsQuickStart.DataAccess;
 
 namespace VuejsQuickStart.Controller
 {

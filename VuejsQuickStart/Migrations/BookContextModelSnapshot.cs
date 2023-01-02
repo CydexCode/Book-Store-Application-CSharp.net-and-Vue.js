@@ -4,6 +4,8 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using VuejsQuickStart;
+using VuejsQuickStart.DataAccess.Models;
+using VuejsQuickStart.DataAccess;
 
 namespace VuejsQuickStart.Migrations
 {

@@ -8,6 +8,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using VuejsQuickStart.DataAccess.Models;
+using VuejsQuickStart.DataAccess;
 
 namespace VuejsQuickStart
 {
