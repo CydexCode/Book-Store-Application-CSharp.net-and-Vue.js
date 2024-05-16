@@ -1,4 +1,4 @@
-# 📘 My Book Store Project Overview 
+# 📘 Book Store Project Overview 
 
 ## Architecture: 4-Layer 🏗️
 - UI 🌐
