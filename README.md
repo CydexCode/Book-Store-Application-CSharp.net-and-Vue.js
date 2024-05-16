@@ -35,6 +35,6 @@ To set up the Book Store Project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your_username/book-store.git
+   git clone https://github.com/CydexCode/Book-Store-Application-CSharp.net-and-Vue.js
 
 2. Run the Code
