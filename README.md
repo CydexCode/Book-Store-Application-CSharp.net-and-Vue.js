@@ -13,7 +13,7 @@ The Book Store Project is structured using a 4-layer architecture to ensure sepa
 
 ## Tech Stack:
 
-- **Backend: C# (.NET, REST API) 🖥️**: The backend is built using C# and the .NET framework, providing robustness and scalability. It exposes RESTful APIs to interact with the frontend.
+- **Backend: C# (.NET, REST API) 🖥️**: The backend is built using C# and the .NET framework(netcoreapp3.1), providing robustness and scalability. It exposes RESTful APIs to interact with the frontend.
 - **Frontend: Vue.js 🖼️**: The frontend is developed using Vue.js, a progressive JavaScript framework. Vue.js offers flexibility and performance, making it suitable for dynamic web applications.
 - **Database: SQL, Entity Framework 🛢️**: SQL databases are used to store application data, and Entity Framework is utilized for data modeling, querying, and manipulation within the .NET ecosystem.
 
